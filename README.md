@@ -8,11 +8,13 @@ About me...
 
 
 💼 **Work**
-- Works Mobile
+- Works Mobile, Mail Developer
 
 
 ⚡ **Interest**
 - Problem solving (PS)
+- Mail System
+- Autonmation
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjm6560)](https://solved.ac/yjm6560)
