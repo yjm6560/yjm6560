@@ -8,7 +8,7 @@ About me...
 
 
 💼 **Work**
-- Works Mobile, Mail Developer
+- Naver Works Mobile, Mail Developer
 
 
 ⚡ **Interest**
